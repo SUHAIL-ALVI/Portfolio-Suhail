@@ -4,14 +4,14 @@ import { HomeIcon, Notebook } from "lucide-react";
 export const DATA = {
   name: "Suhail Alvi",
   initials: "SA",
-  url: "https://aniketvish0.vercel.app",
+  url: "https://suhailalvi.vercel.app/",
   location: "Greater Noida, India",
   locationLink: "",
   description:
-    "Software Engineer. I love building things and solve problems, adaptive and flexible in technologies" ,
+    "Software Engineer. I love to building things and solve problems, adaptive and flexible in technologies" ,
   summary:
     "I started my tech journey in 2nd year of my college. Currently Pursuing, [degree in computer science ](/#education) (final year), actively seeking opportunities to work in great technical environment with passionate people.",
-  avatarUrl: "/Suhail-me.png",
+  avatarUrl: "/newS.png",
   skills: [
     "React",
     "Next.js",
@@ -103,7 +103,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/Mojito.png",
+      image: "/newmoj.png",
       video:
         "",
     },
