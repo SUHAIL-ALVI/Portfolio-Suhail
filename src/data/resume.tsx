@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Software Engineer. I love to building things and solve problems, adaptive and flexible in technologies" ,
   summary:
-    "I started my tech journey in final year of my college. Currently Pursuing, [degree in computer science ](/#education) (final year), actively seeking opportunities to work in great technical environment with passionate people.",
+    "I started my tech journey in 2nd year of my college. Currently Pursuing, [degree in computer science ](/#education) (final year), actively seeking opportunities to work in great technical environment with passionate people.",
   avatarUrl: "/suhail.png",
   skills: [
     "React",
