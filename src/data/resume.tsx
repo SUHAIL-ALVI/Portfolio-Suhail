@@ -26,6 +26,9 @@ export const DATA = {
     "Typescript",  
     "git",
     "Postman",
+    "Redis",
+    "PubSub",
+    
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
