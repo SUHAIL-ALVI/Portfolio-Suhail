@@ -11,7 +11,7 @@ export const DATA = {
     "Software Engineer. I love to building things and solve problems, adaptive and flexible in technologies" ,
   summary:
     "I started my tech journey in 2nd year of my college. Currently Pursuing, [degree in computer science ](/#education) (final year), actively seeking opportunities to work in great technical environment with passionate people.",
-  avatarUrl: "/suhail.png",
+  avatarUrl: "/SA2.jpeg",
   skills: [
     "React",
     "Next.js",
